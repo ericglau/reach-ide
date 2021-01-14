@@ -1,6 +1,6 @@
 {
 	"name": "reach-ide",
-	"displayName": "Reach IDE",
+	"displayName": "Reach IDE (deprecated)",
 	"description": "IDE for the Reach DApp programming language",
 	"author": "Eric Lau",
 	"license": "EPL-2.0",
