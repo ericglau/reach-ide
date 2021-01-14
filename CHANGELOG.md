@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.10
+
+Deprecated and moved to [new extension](https://marketplace.visualstudio.com/items?itemName=reachsh.reach-ide) and [GitHub repository](https://github.com/reach-sh/reach-ide) under Reach.
+
 ## 0.0.9
 
 Use Reach JSON error format for diagnostic highlighting and quick fixes.  
