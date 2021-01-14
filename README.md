@@ -1,4 +1,6 @@
-# Reach IDE
+# Reach IDE (deprecated)
+
+⚠⚠ **This extension is now part of Reach and has been moved to the new [Reach IDE extension](https://marketplace.visualstudio.com/items?itemName=reachsh.reach-ide) and [GitHub repository](https://github.com/reach-sh/reach-ide).** ⚠⚠
 
 IDE support for the Reach DApp programming language.
 
